@@ -91,12 +91,11 @@ form{
 
 }
 
-<style>
-            body {
-              background-image: url('sunset.jpg');
+   body {
+            
               background-repeat:no-repeat;
               height: 100vh;
               background-size: cover;
               background-position: center;
             }
-          </style>
+       
